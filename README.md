@@ -1,1 +1,1 @@
-In Hotel Management System a user can  book rooms, Pay rent online. Along with this we have added a email notification service with this and sending notification service to the user in case therir is a pending rent.
+In Hotel Management System a user can  book rooms, Pay rent online. Along with this we have added a email notification service with this and sending notification service to the user in case their is a pending rent.
