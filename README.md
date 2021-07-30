@@ -1,1 +1,1 @@
-# HotelManagementSyatem
+# HotelManagementSystem
